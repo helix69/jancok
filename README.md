@@ -8,4 +8,5 @@ cp .env.example .env
 npx ts-node src/index.ts
 ```
 
-WasteGas `0x26C4ca34f722BD8fD23D58f34576d8718c883A80`
+WasteGas `0x1018f5125B2aAaE06101D3bC49438846004A4B0f
+`
